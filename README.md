@@ -41,4 +41,4 @@ For example:
 
 ## Licence
 
-<a href="https://github.com/guszczi/Wordle/blob/main/LICENSE">MIT Licence</a>
+<a href="https://github.com/guszczi/MinecraftCords/blob/main/LICENSE">MIT Licence</a>
